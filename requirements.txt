@@ -1,0 +1,9 @@
+Flask==2.1.2
+Flask_MySQLdb==1.0.1
+Flask_RESTful==0.3.9
+flask_socketio==5.3.1
+python-dotenv==0.21.0
+sentry_sdk==1.5.12
+blinker==1.5
+simple-websocket==0.8.1
+cryptography==38.0.1
